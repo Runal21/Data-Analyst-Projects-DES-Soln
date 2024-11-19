@@ -59,5 +59,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Inspiration and guidance from similar data analysis projects in the waste management domain.
 
 ---
-
-Feel free to customize this template with specific details about your project, such as the data sources used, analysis techniques applied, and key findings. Let me know if you need further assistance!
